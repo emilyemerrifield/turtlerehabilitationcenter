@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://emilyemerrifield.github.io/turtlerehabilitationcenter/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/</loc>
+</url>
+<url>
+<loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/meet-the-turtles.html</loc>
+<lastmod>2024-09-09T11:38:37+02:00</lastmod>
+<image:image>
+<image:loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/media/posts/2/gallery/Sea-Turtle-Rescue-Rehabilitation-thumbnail.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/media/posts/2/gallery/rehabbed_sea_turtle-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/media/posts/2/gallery/turlee-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/media/posts/2/gallery/rehabb-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/turtle-rehabilitation-centre.html</loc>
+<lastmod>2024-09-06T09:55:43+02:00</lastmod>
+<image:image>
+<image:loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/media/posts/1/gallery/turtle.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/what-you-can-do.html</loc>
+<lastmod>2024-09-09T12:00:53+02:00</lastmod>
+<image:image>
+<image:loc>https://emilyemerrifield.github.io/turtlerehabilitationcenter/media/posts/3/gallery/turtle.avif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

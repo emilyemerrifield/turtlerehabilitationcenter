@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Turtle Rehabilitation Center",
+    "description": "",
+    "home_page_url": "https://emilyemerrifield.github.io/turtlerehabilitationcenter",
+    "feed_url": "https://emilyemerrifield.github.io/turtlerehabilitationcenter/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Emily Evers"
+    },
+    "items": [
+    ]
+}
